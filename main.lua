@@ -9,7 +9,7 @@ world.x = display.contentCenterX
 world.y = display.contentCenterY - 30
 
 <<<<<<< HEAD
-local msgText = display.newText( "edowrd", world.x, world.y+160, native.systemFont, 32 )
+local msgText = display.newText( "edowrd0710", world.x, world.y+160, native.systemFont, 32 )
 =======
 local msgText = display.newText( "Hi, world!", world.x, world.y+160, native.systemFont, 32 )
 >>>>>>> be88100e63b28b30137fbd6298e2a8820dabf8c7
